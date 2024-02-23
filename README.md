@@ -23,3 +23,6 @@ Welcome to the Order Summary Card project, where simplicity meets sophistication
 👩‍💼 **Ideal for Beginners:** If you're new to web development, this project is an excellent starting point. It covers fundamental concepts while allowing room for growth and experimentation.
 
 Explore the simplicity and elegance of the Order Summary Card—where design meets functionality, creating a delightful journey for online shoppers. Unleash your creativity, customize, and enhance the user experience one card at a time! 🌟🛒✨
+
+**Image of Project**
+<img width="957" alt="image" src="https://github.com/naitikjpatel/Order-Summary-Card/assets/120157810/09d6d705-6862-420c-8af9-15488d8aedf2">
